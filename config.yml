@@ -1,7 +1,6 @@
-theme: jekyll-theme-slate
+remote_theme: daviddarnes/alembic@main
 title: This is the personal homepage of Heath
 description: What you will find here are some of my personal descriptions
-plugins:
-  - jemoji
+plugins:jekyll-remote-theme
 url: "https://Sisyphusaa.github.io/"
 markdown: kramdown
