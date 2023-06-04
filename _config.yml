@@ -2,6 +2,6 @@ title: This is the personal homepage of Heath
 description: What you will find here are some of my personal descriptions
 url: "https://Sisyphusaa.github.io/"
 markdown: kramdown
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
