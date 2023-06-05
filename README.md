@@ -14,7 +14,7 @@ Legal theory, legal philosophy, criminal law
 3. Western literature, for example, "Wuthering Heights" and "Divine Comedy."
 ### Biking
 I have been to Tibert with a bike at 2021(21 days, 2100 kilometers)   
-![Qomulangma](https://github.com/Sisyphusaa/Sisyphusaa.github.io/blob/main/Qomulangma.jpg)
+![](https://github.com/Sisyphusaa/Sisyphusaa.github.io/blob/main/Qomulangma.jpg)
 ### Redology  
 
 
