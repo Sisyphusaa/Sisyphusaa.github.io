@@ -5,7 +5,7 @@ Age: 18 years old
 Comes from Changsha City, Hunan Province, China  
 Currently studying at the Law Department of Lanzhou University and currently participating in the HUSTEP Exchange Program at Hokkaido University  
 ## Academic interests
-_Legal theory_, _Legal philosophy_, _Criminal law_  
+_Legal theory_, _Legal philosophy_, _Criminal law_
 ## Personal interests
 ### Reading
 1. Chinese literature, Including modern Literature and Classical Chinese Literature.
