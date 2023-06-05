@@ -14,7 +14,4 @@ _Legal theory_, _Legal philosophy_, _Criminal law_
 ### Biking
 I have been to Tibet with a bike at 2021(21 days, 2100 kilometers)   
 ![Qomulangma](https://github.com/Sisyphusaa/Sisyphusaa.github.io/raw/main/Qomulangma.jpg)
-### Redology  
-
-
-
+### Redology
