@@ -13,5 +13,7 @@ _Legal theory_, _Legal philosophy_, _Criminal law_
 3. Western literature, for example, *Wuthering Heights* and *Divine Comedy*
 ## Biking
 I have been to Tibet with a bike at 2021(21 days, 2100 kilometers)   
-![Qomulangma](https://github.com/Sisyphusaa/Sisyphusaa.github.io/raw/main/Qomulangma.jpg)  
+![Qomulangma](https://github.com/Sisyphusaa/Sisyphusaa.github.io/raw/main/Qomulangma.jpg)
 ## Redology
+I'm a huge fan of *Dream of Red Mansion*
+[A comment From me in Chinese](https://mp.weixin.qq.com/s/qNR7e66Hq5B-f6OxeHmzQA)
