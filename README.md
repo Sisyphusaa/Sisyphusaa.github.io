@@ -13,7 +13,7 @@ Legal theory, legal philosophy, criminal law
 2. Japanese literature, for example, Yasunari Kawabata's "Snow Country," "The Lake," and "The Dancing Girl of Izu."  etc.
 3. Western literature, for example, "Wuthering Heights" and "Divine Comedy."
 ### Biking
-I have been to Tibert with a bike at 2021(21 days, 2100 kilometers)  
+I have been to Tibert with a bike at 2021(21 days, 2100 kilometers)   
 ![Qomulangma](https://github.com/Sisyphusaa/Sisyphusaa.github.io/blob/main/Qomulangma.jpg)
 ### Redology  
 
