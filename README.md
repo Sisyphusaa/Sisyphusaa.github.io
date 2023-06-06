@@ -1,31 +1,32 @@
 This is the website of Heath~
 # Basic information
-Chinese Name: Xie Zhuohang（谢卓航）
+Chinese Name: 谢卓航(Xie Zhuohang)
 Gender: Male  
 Age: 18 years old  
 Comes from Changsha City, Hunan Province, China  
-Currently studying at the Law Department of Lanzhou University and currently participating in the HUSTEP Exchange Program at Hokkaido University  
+Current Education: Studying at the Law Department of Lanzhou University  
+Current Program: Participating in the HUSTEP Exchange Program at Hokkaido University  
 # Academic interests
 ## _Legal theory(Especially Bentham's theory)_, _Legal philosophy_  
-1. Basically trying to find out if there are any opinion of Bentham can be absorbed for Chinese legal system  
-2. To see if there is an posibility to apply AI and other digital tools to caculate utilities  
-3. research on the process of codification in contemporary China
+1. Exploring the relevance of Bentham's ideas to the Chinese legal system  
+2. Investigating the potential application of AI and digital tools in utility calculations    
+3. Researching the process of codification in contemporary China  
 ## _Criminal law(Especially Beccaria's theory)_
-1. How to combine utilitarinism with criminal law  
-2. discover futher explaination on the origin of national penal power  
+1. Examining how utilitarianism can be integrated into criminal law    
+2. Seeking a deeper understanding of the origin of national penal power  
 # Personal interests  
 ## Reading
-1. Chinese literature, Including modern Literature and Classical Chinese Literature.
-2. Japanese literature, for example, Yasunari Kawabata's *Snow Country* *The Lake* and *The Dancing Girl of Izu*  etc.
-3. Western literature, for example, *Wuthering Heights* and *Divine Comedy*
+1. Chinese Literature, including both modern and classical works  
+2. Japanese literature, such as Yasunari Kawabata's *Snow Country* *The Lake* and *The Dancing Girl of Izu*  etc. 
+3. Western literature, such as *Wuthering Heights* and *Divine Comedy*  
 ## Biking
 I have been to Tibet with a bike at 2021(21 days, 2100 kilometers)   
 ![Qomulangma](https://github.com/Sisyphusaa/Sisyphusaa.github.io/raw/main/Qomulangma.jpg)
 ## Redology
-A huge fan of *Dream of the Red Chamber*  
-I'm trying to analyze this marvelous book in the perspective of aesthetics. Moreover, raising awarance of the traditional Chinese culture(including traditional festivals, customs, etc.)  
-[A comment From me in Chinese](https://mp.weixin.qq.com/s/qNR7e66Hq5B-f6OxeHmzQA)
+I am a passionate fan of *Dream of the Red Chamber*  
+I am currently undertaking an analysis of this magnificent book from an aesthetic perspective. Additionally, I aim to raise awareness about traditional Chinese culture, including traditional festivals, customs, and more  
+[Chinese comment](https://mp.weixin.qq.com/s/qNR7e66Hq5B-f6OxeHmzQA)
 ## Free translation 
-Because most of the works from famous jurist haven't been completely translated into Chinese, so I will public some of the Jurisprudence work on social media in Chinese for free  
+Due to the incomplete translation of works by famous jurists into Chinese, I have decided to publish some Jurisprudence works on social media in Chinese for free.   
 # Contact information  
 Gmail: xiezhuohang421@gmail.com
